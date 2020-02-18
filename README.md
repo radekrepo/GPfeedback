@@ -6,5 +6,6 @@ Have a go with this code if you think your organisation needs to extract some va
 
 
 More about feedback analaysis techniques included in this repository are in paper on arXiv: https://arxiv.org/ftp/arxiv/papers/1711/1711.08083.pdf
+A paper based on feedback analysis is being published in Public Administration journal.
 
-A paper on prediction of feedback is being written up. A link to it will be posted here when it's available.
+A paper on prediction of feedback has been accepted to Journal of Forecasting. Links will be posted here when available.
